@@ -20,6 +20,14 @@ Browse and search ChatGPT iOS App Store reviews with keyword search, star rating
 | Toasts | Sonner |
 | Utilities | react-use |
 
+## Environment Variables
+
+Before running the project, create a `.env` file in the root directory with the following variable:
+
+```
+VITE_REVIEWS_API_URL=<reviews_api_url>
+```
+
 ## Getting Started
 
 ```bash
